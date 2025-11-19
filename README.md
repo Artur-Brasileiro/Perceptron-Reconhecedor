@@ -17,8 +17,9 @@
 O projeto funciona em duas etapas: primeiro treinamos o modelo base, depois executamos a interface.
 
   1. Treinar o modelo v5.0 (Isto criará o arquivo perceptron_A_v5.pth)
-
+     
 ```python treinar_modelo.py```
-   2. Iniciar a aplicação
 
+ 2. Iniciar a aplicação
+    
 ```python testar_gui.py```
