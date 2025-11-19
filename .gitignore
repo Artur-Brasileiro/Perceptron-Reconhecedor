@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Dados do EMNIST
+data/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Modelos treinados
+*.pth
